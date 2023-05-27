@@ -1,6 +1,6 @@
 # Swipe Application
 
-This Python script utilizes the DeepFace library to analyze facial expressions and genders in real-time. It captures screenshots of a specific region on the screen and performs facial analysis on those images. Based on the dominant emotion and gender detected, it simulates keyboard inputs to swipe left or right.
+This Python script utilizes the DeepFace library to analyze facial expressions and genders in real-time for the Tinder WebApp. It captures screenshots of a specific region on the screen and performs facial analysis on those images. Based on the dominant emotion and gender detected, it simulates keyboard inputs to swipe left or right.
 
 ## Prerequisites
 - Python 3
